@@ -5,11 +5,11 @@
 #define DB_METER A2
 #define VREF 3.3
 
-// const char* ssid = "Aussie";
-// const char* password = "Vanessa@2007";
+// const char* ssid = "";
+// const char* password = "";
  
-const char* ssid = "iotroam";
-const char* password = "yinyingesp32";
+const char* ssid = "";
+const char* password = "";
 
 const char* OOCSIName = "M12_MYY_final_###"; //the sender 
 const char* hostserver = "oocsi.id.tue.nl";
