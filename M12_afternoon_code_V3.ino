@@ -12,12 +12,12 @@
 
 // use this if you want the OOCSI-ESP library to manage the connection to the Wifi
 // SSID of your Wifi network, the library currently does not support WPA2 Enterprise networks
-//const char* ssid = "Aussie";
+//const char* ssid = " ";
 // Password of your Wifi network.
-//const char* password = "Vanessa@2007";
+//const char* password = " ";
 
-const char* ssid = "iotroam";
-const char* password = "noframeafternoonMYY@";
+const char* ssid = " ";
+const char* password = " ";
 
 // name for connecting with OOCSI (unique handle)
 const char* OOCSIName = "M12_MYY_receiver_afternoon_NEW_####";
