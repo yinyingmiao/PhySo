@@ -10,9 +10,9 @@
 #include <Wire.h>
 #include <Adafruit_PWMServoDriver.h>
 
-const char* ssid = "iotroam";
+const char* ssid = "";
 // Password of your Wifi network.
-const char* password = "noframemorningMYY@";
+const char* password = "";
 
 
 // name for connecting with OOCSI (unique handle)
